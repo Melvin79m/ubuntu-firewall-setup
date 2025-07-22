@@ -19,7 +19,7 @@ Notes on how this practical exercise deepened my understanding of network securi
 
 Why this matters Firewalls are a critical part of protecting systems and networks from unauthorized access and cyber threats. Learning to configure and monitor them is a foundational skill for anyone pursuing a career in cybersecurity or network engineering.
 
-How to use If you want to try this yourself on Ubuntu: Here are detail instructions on how to proproperly install a firewall to keep your network SAFE!
+How to use If you want to try this yourself on Ubuntu: Here are detail instructions on how to properly install a firewall to keep your network SAFE!
 
 Open your terminal
 
@@ -42,3 +42,4 @@ I’ll be adding more projects and scripts related to cybersecurity and networki
 Connect with me Feel free to reach out if you want to discuss cybersecurity, share tips, or collaborate on projects!
 
 CompTIA #SecurityPlus #Cybersecurity #Ubuntu #Firewall #Networking #LearningJourney #SSH #TCP #UDP #LINUX #TECH #ITcarreer
+
